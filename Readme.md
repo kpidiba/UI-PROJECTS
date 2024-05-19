@@ -14,7 +14,11 @@
 
 - https://mobbin.com/ 
 
+- [Behance](https://www.behance.net/search/projects/desktop%20app%20design) 
 
+- [Behance](https://www.behance.net/search/projects/desktop%20ui%20design%20erp?tracking_source=typeahead_search_direct) 
+
+- [Desktop Application designs, themes, templates and downloadable graphic elements on Dribbble](https://dribbble.com/tags/desktop-application) 
 
 ### TEMPLATES
 
@@ -23,3 +27,5 @@
 - [Best Free Website Templates 2022 | BootstrapMade]([Best Free Website Templates 2022 | BootstrapMade](https://bootstrapmade.com/free-website-templates/))
 
 - [https://htmltemplates.co/](https://htmltemplates.co/) 
+
+-  [570 Desktop UI Design Inspiration ideas | ui design inspiration, ui design, interface design](https://www.pinterest.com/mnotko/desktop-ui-design-inspiration/) 
