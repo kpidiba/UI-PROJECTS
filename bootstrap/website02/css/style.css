@@ -10,52 +10,64 @@ body {
     animation: animate 3s infinite alternate;
 }
 
-.text-primary {
-    color: #257dfd;
+.navbar {
+    background: transparent !important;
 }
 
-.navbar-brand,
-.text-primary {
-    color: #0a58ca !important;
+.navbar-brand {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
 }
 
-.nav-link {
-    font-weight: 500;
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #fff !important;
 }
 
-.nav-link :hover {
-    color: #0a58ca;
+.carousel-item {
+    margin-top: 15%;
 }
 
-.btn-primary {
-    background-color: #0a58ca !important;
-    border: none;
+.carousel-item h1 {
+    font-size: 7em;
+    color: #fff;
+    font-family: bebas neue;
 }
 
-.btn-primary:hover {
-    background-color: #257dfd !important;
+.carousel-item p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    padding: 0 25%;
+    line-height: 1.5;
 }
 
-.blue-bg {
-    background-color: #0a58ca !important;
+@keyframes animate {
+    0% {
+        background-position: 0 50%;
+    }
+
+    100% {
+        background-position: 100% 50%;
+    }
 }
 
-.icons {
-    color: #0a58ca;
-    background-color: #f2f2f2;
-    padding: 6;
-    height: 32px;
-    width: 32px;
-    margin-bottom: 16;
-}
+@media (min-width: 768px) and (max-width: 999px) {
+    .navbar-nav {
+        background: #fff;
+    }
 
-.nav-tabs .nav-item.show .nav-link,
-.nav-tabs .nav-link.active {
-    border: none !important;
-    background-color: #0a58ca;
-    color: white;
-}
+    .nav-link {
+        color: #262626;
+    }
 
-.nav-tabs {
-    border: none;
+    .carousel-item{
+        margin-top: 20%;
+    }
+    .carousel-item p{
+        padding: 0 10px ;
+    }
+
 }
