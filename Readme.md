@@ -22,10 +22,10 @@
 
 ### TEMPLATES
 
-- [[https://html5up.net/](https://html5up.net/) 
+- [https://html5up.net/](https://html5up.net/) 
 
-- [Best Free Website Templates 2022 | BootstrapMade]([Best Free Website Templates 2022 | BootstrapMade](https://bootstrapmade.com/free-website-templates/))
+- [Best Free Website Templates 2022 | BootstrapMade]([Best Free Website Templates 2022 | BootstrapMade](https://bootstrapmade.com/free-website-templates/) 
 
 - [https://htmltemplates.co/](https://htmltemplates.co/) 
 
--  [570 Desktop UI Design Inspiration ideas | ui design inspiration, ui design, interface design](https://www.pinterest.com/mnotko/desktop-ui-design-inspiration/) 
+- [570 Desktop UI Design Inspiration ideas | ui design inspiration, ui design, interface design](https://www.pinterest.com/mnotko/desktop-ui-design-inspiration/) 
