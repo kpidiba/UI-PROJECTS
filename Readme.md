@@ -29,3 +29,7 @@
 - [https://htmltemplates.co/](https://htmltemplates.co/) 
 
 - [570 Desktop UI Design Inspiration ideas | ui design inspiration, ui design, interface design](https://www.pinterest.com/mnotko/desktop-ui-design-inspiration/) 
+
+### YOUTUBE
+
+- [CodingNepal - YouTube](https://www.youtube.com/@CodingNepal) 
