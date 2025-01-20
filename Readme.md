@@ -58,4 +58,11 @@
 
 ---
 
+**Icons Websites** 🖼️
+
+- [Heroicons](https://heroicons.com/) – A collection of free, high-quality SVG icons tailored for your projects.
+- [Lucide](https://lucide.dev/) – A consistent and open-source icon library for modern designs.
+
+---
+
 These resources offer a wide variety of templates, design ideas, and tutorials to inspire your UI/UX projects. Let me know if you'd like more information on any of them!
