@@ -3,6 +3,10 @@
 - **Minimal Gallery**  
   Explore stunning minimalist design projects that showcase clean and effective user interfaces. [Minimal Gallery](https://minimal.gallery/)
 
+- 🌀 **Shadows Gallery**
+  
+  Explore stunning shadow palette designs that showcase elegant and modern user interfaces. [Shadows Gallery](https://shadows.brumm.af/) 🌟
+
 - **Dark Mode Design** 🌙  
   Dive into sleek, dark-themed UI projects that emphasize style and functionality. Perfect for modern, user-centric designs. [Dark Mode Design](https://www.darkmodedesign.com/)
 
@@ -32,6 +36,16 @@
 
 - **TemplateMo** 🧩  
   Discover a variety of free website templates perfect for building modern, responsive websites with ease. [TemplateMo](https://templatemo.com/)
+
+---
+
+#### 🛠️ **TOOLS WEBSITE**
+
+### Explore a Collection of Innovative Tools
+
+**Website**: [10015.io](https://10015.io/)
+
+Welcome to the **TOOLS WEBSITE**, a hub for modern, efficient, and user-friendly tools designed to make your digital experience seamless.
 
 ---
 
