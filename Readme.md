@@ -3,6 +3,9 @@
 - **Minimal Gallery**  
   Explore stunning minimalist design projects that showcase clean and effective user interfaces. [Minimal Gallery](https://minimal.gallery/)
 
+- **uiverse.io**  
+  Discover interactive UI designs and creative components. [uiverse.io](https://uiverse.io/)
+
 - 🌀 **Shadows Gallery**
   
   Explore stunning shadow palette designs that showcase elegant and modern user interfaces. [Shadows Gallery](https://shadows.brumm.af/) 🌟
