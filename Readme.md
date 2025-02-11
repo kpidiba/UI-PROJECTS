@@ -50,6 +50,10 @@
 
 Welcome to the **TOOLS WEBSITE**, a hub for modern, efficient, and user-friendly tools designed to make your digital experience seamless.
 
+**Website:** https://cursify.vercel.app/
+
+Cursors beautiful animations
+
 ---
 
 ### **Website Templates**
