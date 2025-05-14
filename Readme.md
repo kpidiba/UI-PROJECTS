@@ -1,5 +1,13 @@
 ### **UI Projects Inspiration**
 
+- [AWWWARDS](https://www.awwwards.com/)
+  
+  Website help to see what font would look like on website
+
+- [UX SUPPLY](https://kunzsolt.notion.site/) 
+  
+  UX inspiration websites link
+
 - **Minimal Gallery**  
   Explore stunning minimalist design projects that showcase clean and effective user interfaces. [Minimal Gallery](https://minimal.gallery/)
 
