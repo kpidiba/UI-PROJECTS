@@ -1,5 +1,7 @@
 ### **UI Projects Inspiration**
 
+- [BUILTTATLIGHT](https://www.builtatlightspeed.com/)
+
 - [AWWWARDS](https://www.awwwards.com/)
   
   Website help to see what font would look like on website
@@ -91,6 +93,14 @@ Cursors beautiful animations
 
 - [Heroicons](https://heroicons.com/) – A collection of free, high-quality SVG icons tailored for your projects.
 - [Lucide](https://lucide.dev/) – A consistent and open-source icon library for modern designs.
+
+---
+
+**Colors Gradient**
+
+- https://uigradients.com/
+
+- https://coolors.co/
 
 ---
 
